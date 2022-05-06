@@ -1,0 +1,8 @@
+- Topları fırlatırken gerinmeye göre güç uygulamasını sağla
+
+- Ekran çözünürlüğüne göre objeleri boyutlandır
+
+- AI için zorluk dereceleri ekle
+
+AI NOTLARI : 
+- (Üzerinde çalışılıyor) Vectorleri bir random aralığına sığdırarak hata payı ekle
